@@ -7,3 +7,9 @@
 
 “There's a point, around the age of twenty, when you have to choose whether to be like everybody else the rest of your life, or to make a virtue of your peculiarities.”
 ― Ursula K. Le Guin, The Dispossessed
+
+"Curiosity is a new vice that has been stigmatized in turn by Christianity, by philosophy, and even by a certain conception of science. Curiosity, futility. The word, however, pleases me. To me it suggests something altogether different: it evokes "concern"; it evokes the care one takes for what exists and could exist; a readiness to find strange and singular what surrounds us; a certain relentlessness to break up our familiarities and to regard otherwise the same things; a fervor to grasp what is happening and what passes; a casualness in regard to the traditional hierarchies of the important and the essential.
+
+I dream of a new age of curiosity. We have the technical means for it; the desire is there; the things to be known are infinite; the people who can employ themselves at this task exist. Why do we suffer? From too little: from channels that are too narrow, skimpy, quasi-monopolistic, insufficient. There is no point in adopting a protectionist attitude, to prevent "bad" information from invading and suffocating the "good." Rather, we must multiply the paths and the possibilities of coming and goings."
+
+― Michel Foucault, "The Masked Philosopher"
